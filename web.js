@@ -16,6 +16,11 @@ function login() {
 }
 
 
+setTimeout(() => {
+    window.location.href = "index.html"; 
+  }, 180000);
+
+
 
 
 
